@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(185, 185, 167);
+}
+
+#grafica{
+    padding: 20px;
+    height:600px;
+    width: 800px;
+}
